@@ -1,0 +1,1 @@
+# Arctic-Liquid-III-vs.-Thermalright-LGA1700-BCF
