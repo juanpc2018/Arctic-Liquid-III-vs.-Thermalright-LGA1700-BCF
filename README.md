@@ -29,7 +29,7 @@ Must be very careful Not to overtight, board cracks like Bone Joint Noises. </br
 Must be very careful All Screws have similar pressure / tension </br>
 "screw all in X pattern, then Unscrew & Screw again each, by small 90º / 180º / 360º </br>
 several times in X pattern, smaller turns, until all feel the same </br>
-Not overtight, Not lose, No loud Joint Noises, must be done in a quiet environment, lowest noise hours in that area </br>
+Not overtight, Not lose, No loud Joint Noises, must be done in a quiet environment, lowest noise hours </br>
 
 Thermalright LGA1700-BCF seems easier / faster to achieve proper tension </br>
 probably because BCF plate is flatter, </br>
