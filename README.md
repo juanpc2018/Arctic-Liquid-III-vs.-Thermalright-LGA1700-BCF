@@ -43,12 +43,12 @@ its metallic with a plastic layer in between the board and the back plate </br>
 
 hold the back plate with 1 hand to avoid falling or moving, without too much pressure on the board </br>
 while removing the mounting mechanism on the top with the other hand </br>
-and screw the New mounting plate. </br>
+and screw the New mounting plate with 1 hand. </br>
 
 your PC case must have back door open, board horizontal, and lifted like a vehicle on a shop lift hoist </br>
-if you move the back plate, you need a flashlight or cellphone light on the back to align holes again </br>
+if the back plate moves or fall, needs a flashlight or cellphone light on the back to align the holes again </br>
 glueing the back plate with thin double side tape its a temptation, but... </br>
 does Not allow free movement to mount the CPU, needs a small tolerace to have perfect alignment: </br>
-Back plate + board socket holes + plastic socket on the front + socket pins + cpu + mounting plate </br>
+Back plate + board socket holes + plastic socket on the front + socket pins + cpu + mounting plate. </br>
 
 Works perfect when done properly. </br>
