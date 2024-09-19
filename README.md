@@ -51,4 +51,4 @@ glueing the back plate with thin double side tape its a temptation, but... </br>
 does Not allow free movement to mount the CPU, needs a small tolerace to have perfect alignment: </br>
 Back plate + board socket holes + plastic socket on the front + socket pins + cpu + mounting plate </br>
 
-Thats it... works perfect when done properly. </br>
+Works perfect when done properly. </br>
