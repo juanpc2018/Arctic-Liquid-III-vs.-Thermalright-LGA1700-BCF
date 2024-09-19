@@ -12,8 +12,8 @@ Maybe could work, Untested / Unknown. </br>
 
 Tested: </br>
 Arctic III waterblock / pump must use the included Arctic III 1700 mount plate </br>
-its very frustrating to screw just 2-screws !  </br>
-But also feel very easy using the proper technique. </br>
+it can be very frustrating to screw just 2-screws !  </br>
+But also feels very easy using the proper technique. </br>
 
 grabbing the waterblock/pump from the back with right hand, if you are right handed </br>
 peal the protection layer, alight holes: waterblock & mounting plate, push down firm + rolling motion inward</br>
