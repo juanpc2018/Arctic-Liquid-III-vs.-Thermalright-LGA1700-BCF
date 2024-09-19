@@ -36,13 +36,13 @@ probably because BCF plate is flatter, </br>
 Arctic can be overtight easy if Not careful. </br>
 
 before installing place the CPU on the original mount to protect the socket pins, </br>
-Align Triangles on the corner, But... Not close the retention mechanism. </br>
+Align Triangles on the corner, But... do Not close the retention mechanism. </br>
 Unscrew the original cpu mount with included tool </br>
 1700 back plate in some boards is Not glued, </br>
 its metallic with a plastic layer in between the board and the back plate </br>
 
 hold the back plate with 1 hand to avoid falling or moving, without too much pressure on the board </br>
-while remove the mounting mechanism on the top with the other hand </br>
+while removing the mounting mechanism on the top with the other hand </br>
 and screw the New mounting plate. </br>
 
 your PC case must have back door open, board horizontal, and lifted like a vehicle on a shop lift hoist </br>
