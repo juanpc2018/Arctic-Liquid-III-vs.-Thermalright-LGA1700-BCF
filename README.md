@@ -27,25 +27,28 @@ Thermalright LGA1700-BCF requires the original socket screws. </br>
 
 Must be very careful Not to overtight, board cracks like Bones Joint Noises. </br>
 Must be very careful All Screws have similar pressure / tension </br>
-"screw all in X pattern, then Unscrew each in X pattern by small 90º / 180º / 360º </br>
-and again several times smaller turns, until all feel the same, </br>
-Not overtight, Not lose, No Joint Noises." </br>
-Thermalright LGA1700-BCF seems easier / faster to achieve proper tension </br>
-probably because plate is flatter </br>
-Arctic can be overtight more easy if Not careful. </br>
+"screw all in X pattern, then Unscrew & Screw again each, by small 90º / 180º / 360º </br>
+several times in X pattern, smaller turns, until all feel the same </br>
+Not overtight, Not lose, No loud Joint Noises, must be done in a quiet environment, lowest noise hours in your area </br>
 
-must place the CPU on the original mount to protect the socket pins, </br>
-proper Triangle on the corner alignment, But... Not close the mechanism. </br>
-Unscrew the original socket cpu mount with included tool </br>
-back plate in some boards are Not glued, </br>
-its metallic with a plastic layer in between the board and the back plate. </br>
-your PC case must have back door open, board horizontal, and lifted like a vehicle on a shop lift hoist </br>
-you need to hold the back plate with 1 hand to avoid falling or moving, </br>
+Thermalright LGA1700-BCF seems easier / faster to achieve proper tension </br>
+probably because BCF plate is flatter, </br>
+Arctic can be overtight easy if Not careful. </br>
+
+before installing place the CPU on the original mount to protect the socket pins, </br>
+Align Triangles on the corner, But... Not close the retention mechanism. </br>
+Unscrew the original cpu mount with included tool </br>
+1700 back plate in some boards is Not glued, </br>
+its metallic with a plastic layer in between the board and the back plate </br>
+
+hold the back plate with 1 hand to avoid falling or moving, without too much pressure on the board </br>
 while remove the mounting mechanism on the top with the other hand </br>
 and screw the New mounting plate. </br>
+
+your PC case must have back door open, board horizontal, and lifted like a vehicle on a shop lift hoist </br>
+if you move the back plate, you need a flashlight or cellphone light on the back to align holes again </br>
 glueing the back plate with thin double side tape its a temptation, but... </br>
-does Not allow free movement to mount the CPU, needs a small tolerace to have perfect alignment. </br>
+does Not allow free movement to mount the CPU, needs a small tolerace to have perfect alignment: </br>
 Back plate + board socket holes + plastic socket on the front + socket pins + cpu + mounting plate </br>
 
 Thats it... works perfect when done properly. </br>
-m
