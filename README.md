@@ -15,10 +15,10 @@ Arctic III waterblock / pump must use the included Arctic III 1700 mount place <
 its very frustrating to screw just 2-screws !  </br>
 But also feel very easy using the proper technique. </br>
 
-grabbing the waterbloc/punp from the back with right hand, if you are right handed </br>
-alight holes, push down firm + rolling motion </br>
-waterblock screws very easy, but the back of the Arctic Waterblock </br>
-must must be facing the center of the board, Not the edge, Not the Dr.MOS Heatsink, </br>
+grabbing the waterblock/punp from the back with right hand, if you are right handed </br>
+peal the protection layer, alight holes: waterblock & mounting plate, push down firm + rolling motion inward</br>
+waterblock screws very easy!</br>
+But the Arctic Waterblock/Pump back must must be facing the center of the board, Not the edge, Not the Dr.MOS Heatsink </br>
 even if has 1mm clearance, makes grabing the heatsink wrong, and becomes frustrating to screw. </br>
 
 The 1700 mounting plate: </br>
