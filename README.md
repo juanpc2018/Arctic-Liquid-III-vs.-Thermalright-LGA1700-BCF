@@ -15,21 +15,21 @@ Arctic III waterblock / pump must use the included Arctic III 1700 mount place <
 its very frustrating to screw just 2-screws !  </br>
 But also feel very easy using the proper technique. </br>
 
-grabbing the waterblock/punp from the back with right hand, if you are right handed </br>
+grabbing the waterblock/pump from the back with right hand, if you are right handed </br>
 peal the protection layer, alight holes: waterblock & mounting plate, push down firm + rolling motion inward</br>
-waterblock screws very easy!</br>
-But the Arctic Waterblock/Pump back must must be facing the center of the board, Not the edge, Not the Dr.MOS Heatsink </br>
-even if has 1mm clearance, makes grabing the heatsink wrong, and becomes frustrating to screw. </br>
+alternate waterblock screws, very easy!</br>
+But the Arctic Waterblock+Pump must be facing the center of the board, Not the edge, Not the Dr.MOS Heatsink </br>
+even if has 1mm clearance, makes grabing the waterblock+pump wrong, and becomes frustrating to screw. </br>
 
 The 1700 mounting plate: </br>
 Arctic 1700 plate requires different screws "included", </br>
-Thermalright LGA1700-BCF requires the original socket screws. </br>
+Thermalright LGA1700-BCF requires original socket screws. </br>
 
-Must be very careful Not to overtight, board cracks like Bones Joint Noises. </br>
+Must be very careful Not to overtight, board cracks like Bone Joint Noises. </br>
 Must be very careful All Screws have similar pressure / tension </br>
 "screw all in X pattern, then Unscrew & Screw again each, by small 90º / 180º / 360º </br>
 several times in X pattern, smaller turns, until all feel the same </br>
-Not overtight, Not lose, No loud Joint Noises, must be done in a quiet environment, lowest noise hours in your area </br>
+Not overtight, Not lose, No loud Joint Noises, must be done in a quiet environment, lowest noise hours in that area </br>
 
 Thermalright LGA1700-BCF seems easier / faster to achieve proper tension </br>
 probably because BCF plate is flatter, </br>
