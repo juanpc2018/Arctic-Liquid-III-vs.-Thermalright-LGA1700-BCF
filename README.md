@@ -46,7 +46,7 @@ while removing the mounting mechanism on the top with the other hand </br>
 and screw the New mounting plate with 1 hand. </br>
 
 your PC case must have back door open, board horizontal, and lifted like a vehicle on a shop lift hoist </br>
-if the back plate moves or fall, needs a flashlight or cellphone light on the back to align the holes again </br>
+if the back plate moves or fall, needs a flashlight or cellphone light on the back to align holes again </br>
 glueing the back plate with thin double side tape its a temptation, but... </br>
 does Not allow free movement to mount the CPU, needs a small tolerace to have perfect alignment: </br>
 Back plate + board socket holes + plastic socket on the front + socket pins + cpu + mounting plate. </br>
