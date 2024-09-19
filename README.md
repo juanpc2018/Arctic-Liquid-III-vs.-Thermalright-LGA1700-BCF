@@ -16,7 +16,8 @@ it can be very frustrating to screw just 2-screws !  </br>
 But also feels very easy using the proper technique. </br>
 
 grabbing the waterblock/pump from the back with right hand, if you are right handed </br>
-peal the protection layer, alight holes: waterblock & mounting plate, push down firm + rolling motion inward</br>
+peal the protection layer, alight holes: </br>
+waterblock & mounting plate, push down firm + rolling motion inward like arm wrestling but mini, less force, only wrist </br>
 alternate waterblock screws, very easy!</br>
 But the Arctic Waterblock+Pump must be facing the center of the board, Not the edge, Not the Dr.MOS Heatsink </br>
 even if has 1mm clearance, makes grabing the waterblock+pump wrong, and becomes frustrating to screw. </br>
