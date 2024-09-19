@@ -11,9 +11,9 @@ ARCTIC Intel LGA1700 Upgrade Kit - for Liquid Freezer II Series  </br>
 Maybe could work, Untested / Unknown. </br>
 
 Tested: </br>
-Arctic III waterblock / pump must use the included Arctic III mount place </br>
+Arctic III waterblock / pump must use the included Arctic III 1700 mount place </br>
 its very frustrating to screw just 2-screws !  </br>
-But also feels very easy using the proper technique. </br>
+But also feel very easy using the proper technique. </br>
 
 grabbing the waterbloc/punp from the back with right hand, if you are right handed </br>
 alight holes, push down firm + rolling motion </br>
